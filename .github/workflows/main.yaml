@@ -15,4 +15,4 @@ jobs:
 
     - name: Invoke API
       run: |
-        curl -X POST "http://35.181.154.91:8082/notifyCodekataSolution?githubRepository=<SET_UP_GITHUB_REPO_LINK>&teamToken=<SET_UP_TEAM_TOKEN_FROM_BATTLE_PAGE>"
+        curl -X POST "http://35.181.154.91:8082/notifyCodekataSolution?githubRepository=https://github.com/Andre04-poli/B_0A302&teamToken=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJBbmRyZTA0LXBvbGkiLCJiYXR0bGVfY29kIjoiQl8wQTMwMiIsInRlYW1fbmFtZSI6InByZXNlbnRhdGlvblRlc3QiLCJpYXQiOjE3MDc3NDg2MzEsImV4cCI6MTczOTI4NDYzMX0.MKy4F3OsahY1kWUrrp6l8D8w4DZgVo7OeUpdjItAFEw"
