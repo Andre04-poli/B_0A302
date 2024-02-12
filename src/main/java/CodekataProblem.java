@@ -7,14 +7,14 @@ public class CodekataProblem {
     }
 
     public static int myProblem2(int i, int j){
-        return i;
+        return i*j;
     }
 
     public static int myProblem3(int i, int j){
-        return i;
+        return i*j;
     }
 
     public static int myProblem4(int i, int j){
-        return i;
+        return i - j;
     }
 }
